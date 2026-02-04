@@ -27,7 +27,7 @@ private Paint green = new Paint();
         canvas.drawBitmap(board, 0, 130, null);
 
         //The format for the Player Pieces is as follows:
-        //Color
+        //Color!
         Paint spaceGrey = new Paint();
         spaceGrey.setColor(0xFF343d46);
         spaceGrey.setStyle(Paint.Style.FILL);
